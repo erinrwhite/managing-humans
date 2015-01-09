@@ -27,6 +27,8 @@ code4lib 2015 presentation
 - retaining
     - prioritize: your folks, your boss, everybody else
     - let 'em know you know they won't be there forever
+    - critique ideas not people
+    - say hard things honestly
 - be a model
     - take vacation, no seriously and leave it at work if you can
     - tell the truth but don't poison the well
