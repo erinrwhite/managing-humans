@@ -48,32 +48,35 @@ and employees at large and small institutions alike.
 - becoming a manager
 - """managing""" in libraryland
     + working managers lol
-    + sybil's talk fits in here?
+    + sybil's talk fits in here? no good training for managers in libraryland
 - our typical view of managers (lumberg on office space) vs service-based management philosophy: I'm here to give strategic direction then GTFO
 - hiring
     - writing job descriptions: make the job interesting, fight for good pay
     - posting: emphasize non-pay benefits, 10/20% time
     - interviewing: what was the last script you wrote? can you teach yourself? do you speak fondly of your ex-employers?
     - take 'em out to lunch the first day, c'mon
-    - i don't have any damn money!
+    - onboarding checklist
+    - working with not enough damn money
 - retaining
     - let 'em know you know they won't be there forever
-    - i don't have any damn money!
+    - working with not enough damn money
     - critique ideas not people
     - say hard things honestly
 - working long-term
-    - prioritize: your folks, your boss, everybody else
+    - prioritize order of operations: your folks, your boss, everybody else
     - be a model
         - take vacation, no seriously and leave it at work if you can
         - tell the truth but don't poison the well
-    - know yourself and your limitations
+    - know yourself and your limitations, communicate that
+    - check in, ask how they want to grow, where they see themselves
 - working day-to-day
     - tell them how you work: be honest about your motivations, pressures, goals ,and how you work best
+    - weekly one-on-ones
 - politics of libraryland!
 - juggling types of projects
     + maintenance vs innovation
     + core vs. satellite (thanks BYU, holler)
     + momentum, engagement, agency
-    + new technologies
+    + new technologies for satellite projects then move into core
 
  
