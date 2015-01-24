@@ -1,7 +1,17 @@
-managing-humans
+Programmers are not projects: lessons learned from managing humans
 ===============
 
-code4lib 2015 presentation
+[code4lib 2015 talk](http://code4lib.org/conference/2015/white)
+
+Managing projects is one thing, but managing people is another. Whether
+we’re hired as managers or grow “organically” into management roles,
+sometimes technical people end up leading technical teams (gasp!). I’ll
+talk about lessons I’ve learned about hiring, retaining, and working
+long-term and day-to-day with highly tech-competent humans. I’ll also
+talk about navigating the politics of libraryland, juggling different
+types of projects, and working with constrained budgets to make good
+things and keep talented people engaged.
+
 
 ## references
 
@@ -19,31 +29,7 @@ code4lib 2015 presentation
 - [MVC: Command management vs service management](https://modelviewculture.com/pieces/engineering-management-and-diversity)
 - [Book: UX Management](http://proquest.safaribooksonline.com/book/web-development/usability/9780123854964)
 
-## description
-
-Managing projects is one thing, but managing people is another. Whether
-we’re hired as managers or grow “organically” into management roles,
-sometimes technical people end up leading technical teams (gasp!). I’ll
-talk about lessons I’ve learned about hiring, retaining, and working
-long-term and day-to-day with highly tech-competent humans. I’ll also
-talk about navigating the politics of libraryland, juggling different
-types of projects, and working with constrained budgets to make good
-things and keep talented people engaged.
-
-### sybil's description
-
-New managers are often promoted without receiving management training,
-yet management is not something you just figure out. The experience of
-being expected to know how to manage, yet not being trained to do so
-often results in new managers feeling isolated and unsure how to move
-from making to managing. In this talk I’ll focus on my own managerial
-experience of designing and leading an archival tech team in a small
-independent archives. Topics covered will include hiring, delegating,
-creating a team culture, and leading people whose specialized knowledge
-exceeds your own. The talk take-aways should be applicable to managers
-and employees at large and small institutions alike.
-
-## rough outline
+## outline
 
 ### introduction
 Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about...managing people. Super-scintillating stuff.
@@ -80,47 +66,57 @@ As an added bonus, many library managers are "working managers" which is a nice 
     
 ### be a human
 
-    - our typical view of managers (lumberg on office space) vs service-based management philosophy: I'm here to give strategic direction then GTFO
-    - be a model
-        - tell the truth but don't poison the well. Model the attitudes you'd like to see
-        - know yourself and your limitations, communicate that
-        - communicate your goals and pressures, say why you are making decisions
-        - take vacation, seriously, and leave work at work if you can
-            - email at 10 p.m.? why
-            - 
+- our typical view of managers (lumberg on office space) vs service-based management philosophy: I'm here to give strategic direction then GTFO
+- be a model
+    - tell the truth but don't poison the well. Model the attitudes you'd like to see
+    - know yourself and your limitations, communicate that
+    - communicate your goals and pressures, say why you are making decisions
+    - take vacation, seriously, and leave work at work if you can
+        - email at 10 p.m.? why
+
+
 
 ### recognize that others are humans
 
-    - hiring
-        - writing job descriptions: make the job interesting, fight for good pay
-        - posting: emphasize non-pay benefits, 10/20% time
-        - interviewing: what was the last script you wrote? can you teach yourself? do you speak fondly of your ex-employers?
-        - take 'em out to lunch the first day, c'mon
-        - onboarding checklist
-        - working with not enough damn money
-    - retaining
-        - let 'em know you know they won't be there forever
-        - working with not enough damn money
-        - critique ideas not people
-        - say hard things honestly
-    - when shit hits the fan
-        + it almost always comes down to communications issues
-        + did i give this person enough information to succeed?
-        + was this an error?
-        + blameless postmortems
-        + life or death is just not a thing
-    - working long-term
-        - prioritize order of operations: your folks, your boss, everybody else
-        - check in, ask how they want to grow, where they see themselves
-    - working day-to-day
-        - tell them how you work: be honest about your motivations, pressures, goals ,and how you work best
-        - weekly one-on-ones
-        - politics of libraryland!
-    - juggling types of projects
-        + maintenance vs innovation
-        + core vs. satellite (thanks BYU, holler)
-        + momentum, engagement, agency
-        + new technologies for satellite projects then move into core
+- hiring
+    - writing job descriptions: make the job interesting, fight for good pay
+    - posting: emphasize non-pay benefits, 10/20% time
+    - interviewing: what was the last script you wrote? can you teach yourself? do you speak fondly of your ex-employers?
+    - take 'em out to lunch the first day, c'mon
+    - onboarding checklist
+    - working with not enough damn money
+    - mission-driven work
+- retaining
+    - let 'em know you know they won't be there forever
+    - working with not enough damn money
+    - critique ideas not people
+    - say hard things honestly
+- working long-term
+    - prioritize order of operations: your folks, your boss, everybody else
+    - check in, ask how they want to grow, where they see themselves
+- working day-to-day
+    - tell them how you work: be honest about your motivations, pressures, goals and how you work best
+    - weekly one-on-ones
+    - politics of libraryland!
+- juggling types of projects
+    + maintenance vs innovation
+    + core vs. satellite (thanks BYU, holler)
+    + momentum, engagement, agency
+    + new technologies for satellite projects then move into core
+- libraryland is weird
+    - be the poo umbrella
+    - communicate stakeholders and the feedback process and how that feedback will be used
+- when shit hits the fan
+    + it almost always comes down to communications issues
+    + did i give this person enough information to succeed?
+    + was this an error?
+    +   blameless postmortems
+    + life or death is just not a thing
+    + is it a problem with a person?
+
+### bye
+
+That's all I have to say. Thank you for your time, Code4Lib!
 
     
 
