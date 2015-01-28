@@ -113,6 +113,12 @@ As an added bonus, many library managers are "working managers" which is a nice 
     +   blameless postmortems
     + life or death is just not a thing
     + is it a problem with a person?
+fundamental attribution error
+curious, mission-driven tinkerers
+management is not leadership - doing things right vs doing the right things
+fear, shame, 
+    say when you don't know, recognize when you fear change, acknowledge the clench
+    say when you messed up
 
 ### bye
 
