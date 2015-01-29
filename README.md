@@ -29,16 +29,14 @@ things and keep talented people engaged.
 - [MVC: Command management vs service management](https://modelviewculture.com/pieces/engineering-management-and-diversity)
 - [Book: UX Management](http://proquest.safaribooksonline.com/book/web-development/usability/9780123854964)
 
-## outline
-
-### introduction
+## introduction
 Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about...managing people. Super-scintillating stuff.
 
 You're probably wondering if I'm going to cover the same stuff as Sybil. Well, the answer is, there may be overlap, but we schemed ahead of time to avoid dwelling on similar topics so we wouldn't bore you. You're welcome!
 
 The gist of my talk today is: "soft" skills are hard, be a human and recognize that others are, too.
 
-### "soft" skills are hard
+## "soft" skills are hard
 The conference schedule this year isn't just about code.  I'm happy about that. So often we relegate things like management, communications, project management, UX, work-life balance, benefits, and equity issues to the back burner, as not "the work we do". We code only! Our work is about hard skills and that's it! 
 
 Well, not so much.
@@ -65,13 +63,13 @@ So, newbie managers + very little admin support for training = lots of "room for
 
 As an added bonus, many library managers are "working managers" which is a nice way to say we have a bunch of stuff we do in addition to managing folks. Hats off to any managers who get any amount of your own work done, have happy employees, and only work 40 hours a week.
     
-### being a human
+## being a human
 
 Why am I talking about this? Why the hell do I have a slide about "being a human"? Shouldn't we all be good at this by now?
 
 Well, I won't speak for everybody but I do know that I made a lot of assumptions about how good a boss I'd be before I was a boss. I assumed that being a boss was like being a regular person on a team with some added paperwork. It's really not. The power dynamic changes when you are in a formal management position and the rules you follow for "how to be a human person" change. You're no longer a friend or an equal or a confidante, nor are you viewed as one. And that's okay. It's just different.
 
-#### ass+u+me
+### ass+u+me
 
 Our typical view of managers has been framed by depictions of inept, buttoned-up, cubicle-lurking pointy-heads - Dilbert and Office Space come to mind. That view of managers is a depiction of the typical command-based management style: I tell you what to do, you do it without asking questions, grrrrreaaaat. The command-based manager assumes that you naturally are up to no good, that you don't want to work, that you'`re disengaged. Has anybody ever had a boss who clearly thought like this? Yeah, me too. The wording is blunt, but *this is actually how a lot of managers still think* and how a lot of people are taught to think as managers. Wow!
 
@@ -79,7 +77,7 @@ More and more, though, we hear about a newer type of manager - the service-based
 
 So, the first step of being human is recognizing your own assumptions about your team and making sure that they align with where you need to be. Rather than assume the worst, my assumption is that the people on my team are *curious, mission-driven tinkerers* who want to be here. All assumptions about the work they do flows from there.
 
-#### your work, lol
+### your work, lol
 
 Speaking of "the work your team does" - do you know that saying, "your work isn't your work anymore when you're a manager"? It's true. Your work is your team's work. It took me a while to get over the fact that at the end of each day, I hadn't lovingly crafted a thing with my own hands. Despite my sadness I have developed a few rules of thumb:
 
@@ -89,11 +87,11 @@ Speaking of "the work your team does" - do you know that saying, "your work isn'
 
 Letting go can be hard, especially if you're really close to your old job responsibilities. This is one I've learned the hard way: when hiring someone new into your old position, make sure you relinquish *all* of the responsibilities for that position. Communicate your expectations and then let it go. If you're feeling bold, tell that person to tell you when you're being too hands-on. Many people are too nice to do this but just saying it out loud will put pressure on you to mind your dang manners.
 
-#### staying current
+### staying current
 
 Though I just said to stay out of the active development workflow, I also try to keep somewhat current on our code stack so I can speak intelligently to my team about problems we're trying to solve. Generally I pick small, non-urgent maintenance requests that I can commit and fix. This is also a great way to test documentation. :D :D :D
 
-#### communicate
+### communicate
 
 I think a manager's biggest job is talking with your team. Communicating context, important political or historical factors that will impact work, audience for projects, timelines, feedback, everything. And, making sure that their voices and needs are heard in the levels above you.
 
@@ -103,7 +101,7 @@ Other things I've finally learned to communicate: the rationale for decisions, c
 
 Another thing I have gotten better at communicating nowadays: areas where I screwed up. It's really liberating. As long as something's learned from it, it's fine.
 
-#### case study: the clench
+### case study: the clench
 
 A thing I've learned about myself as a manager is that I really fear change. I have a hard time with big new project ideas, or changing up the way things have been done for a long time, or the idea of new technologies...the list really goes on. 
 
@@ -113,7 +111,7 @@ Hear the idea, feel the clench, ask some questions, give it a minute, pursue the
 
 I have communicated this to my team and this is how they know to work with me. 
 
-#### balance
+### balance
 
 It's important to recharge and separate yourself, you, human person, from your work, no matter what a curious, mission-driven tinkerer you are. 
 
@@ -125,11 +123,11 @@ If you're worried that something will come up that really does require your atte
 
 Also, unless you are a library director, you don't need to send a dang e-mail at 10 p.m. on a Wednesday. No 10 p.m. email is a good email. Go home.
 
-### recognize that others are humans
+## recognize that others are humans
 
 Okay, now that we've talked about some ways to appear to be a human being to your employees, let's talk about the humans you manage.
 
-#### hiring
+### hiring
 
 - writing job descriptions: make the job interesting, fight for good pay
 - posting: emphasize non-pay benefits, 10/20% time
@@ -139,7 +137,7 @@ Okay, now that we've talked about some ways to appear to be a human being to you
 - working with not enough damn money
 - mission-driven work
 
-#### retaining
+### retaining
 
 - let 'em know you know they won't be there forever
 - working with not enough damn money
@@ -151,7 +149,7 @@ Okay, now that we've talked about some ways to appear to be a human being to you
 - one channel if possible
 - are they big-picture or task-oriented?
 
-#### working day-to-day
+### working day-to-day
 
 - weekly one-on-ones
 - politics of libraryland!
@@ -171,7 +169,7 @@ Okay, now that we've talked about some ways to appear to be a human being to you
     + life or death is just not a thing
     + is it a problem with a person?
 
-### bye
+## bye
 
 That's all I have to say. Thank you for your time, Code4Lib!
 
