@@ -28,6 +28,7 @@ things and keep talented people engaged.
 - [Harvard business review: Manage your boss](https://hbr.org/2005/01/managing-your-boss)
 - [MVC: Command management vs service management](https://modelviewculture.com/pieces/engineering-management-and-diversity)
 - [Book: UX Management](http://proquest.safaribooksonline.com/book/web-development/usability/9780123854964)
+- [Book: Leading Snowflakes](http://leadingsnowflakes.com/)
 
 ## introduction
 Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about...managing people. Super-scintillating stuff.
@@ -129,38 +130,72 @@ Okay, now that we've talked about some ways to appear to be a human being to you
 
 ### hiring
 
-- writing job descriptions: make the job interesting, fight for good pay
-- posting: emphasize non-pay benefits, 10/20% time
+Sybil talked a little bit about hiring in her talk. I won't add a whole lot here.
+
+Most of the people who have come to work on our web team have come over from the private sector because we do mission-driven work and use a semi-modern code stack (seriously). 
+
+For many, the appeal of library work is that at the end of the day, maybe, just maybe, you're helping someone. But that isn't going to be enough, on its own, to get people in the door. If we can't match private sector salaries - most of us can't, but we should still try - there are other things we can do to make positions appealing:
+
+ - Emphasize non-pay benefits - free tuition? Gym membership? Great health benefits? Paid time off and a lot of leave around the holidays? Check, check, check.
+ - Emphasize that it's only a 40-hour workweek. Sadly, in the U.S., this is a perk.
+ - Fight for travel funding. Send people to conferences and pay for training.
+ - Build 10 or 20%-time projects into the job description for employees to choose their own adventure - learn a new technology or work on a project they think would benefit the organization.
+ - Build learning into the job description. Let people learn on the job rather than at home, after hours.
+
+
 - interviewing: what was the last script you wrote? can you teach yourself? do you speak fondly of your ex-employers?
-- take 'em out to lunch the first day, c'mon
-- onboarding checklist
-- working with not enough damn money
-- mission-driven work
+
+#### the first day
+
+On the first day for a new employee I make sure they're set up with accounts, IDs, etc., then leave them on their own with a checklist and some websites to read. A checklist on the first day gives folks something to focus on, is a gentle introduction to the organization, and finishing the checklist is the first win.
+
+Also, taking people out to lunch on their first day of work is a very kind thing to do.
 
 ### retaining
 
-- let 'em know you know they won't be there forever
-- working with not enough damn money
-- critique ideas not people
-- say hard things honestly
-- check in, ask how they want to grow, where they see themselves
-- tell them how you work: be honest about your motivations, pressures, goals and how you work best
+So, you've brought someone in, onboarded them, and they are doing it! They are really working. You are excited to have a human on your team. How do you keep that person around?
+
+#### a person, not a position
+
+Relatively soon after someone starts (not the next day, slow your role) you should have the first Talk. 
+
+- How do you want to grow?
+- Where do you want to see yourself in a year?
+- What do you want to learn?
+- What do you need to do that?
+
+Rinse and repeat regularly, more frequently than yearly evaluation cycles.
+
+This may be the several years of hiring only part-time employees talking, but I let people know really early on that I know they won't be here forever. The usual spiel is, if you feel the need to leave, let me know. I want us to do what we can to keep you, including trying to match outside offers, but if you just want to move on I will not take it personally. Do good work I'll happily give you a good reference.
+
+#### defining work
+
+One thing that's different about library work is that our coding jobs are not about billable hours. Here are some things I define as "work": going out for coffee with your boss, travel to/from another library branch, talking with coworkers in a hallway about a project, attending another department's presentation, reading articles about libraries or technology, experimenting with a new javascript framework, brainstorming ways to solve a design problem while staring off into space. 
+
+In libraryland, if what we're doing contributes to the mission of the organization we work for, we are working. That space gives us room to breathe and grow.
+
+#### mixing it up
+
+A lot of us have several projects we're working on at the same time. Not all of us, but many of us. And in libraryland, some of those projects can be boring or tedious. I've tried to balance out potentially boring projects with cool stuff, which helps productivity and morale. On our shared project board we've broken out these projects into "core" and "satellite" projects - thanks to Ben Crowder and Grant Zabriskie at BYU for these terms.
+
+Core projects are mission-critical projects that affect the core services we provide online: either updating the underlying code base for all our web applications or prepping for an upgrade to our 3rd-party discovery system.
+
+Satellite projects are not mission-critical services, but they're projects that excite us and usually the rest of the library, and they let the team flex some technical skills. Examples of this recently have included an interactive atlas to accompany a digitized collection in ContentDM and a splash landing page for our new library building. The key with satellite projects is keeping the momentum and giving the team agency to finish a project in the best way they deem fit. And often the new technologies introduced in a satellite project are eventually moved into the tech stack for core services.
+
+Balancing core and satellite projects can be difficult, but having a little bit of both at the same time can make a world of difference.
+
+#### communication (more of it)
 - ask them how they'd prefer to hear from you
-- one channel if possible
+- tell them how you work: be honest about your motivations, pressures, goals and how you work best
 - are they big-picture or task-oriented?
+- regular one-on-ones
 
-### working day-to-day
-
-- weekly one-on-ones
-- politics of libraryland!
-- juggling types of projects
-    + maintenance vs innovation
-    + core vs. satellite (thanks BYU, holler)
-    + momentum, engagement, agency
-    + new technologies for satellite projects then move into core
-- libraryland is weird
+#### librarylandia
+- politics of libraryland! libraryland is weird
     - be the poo umbrella
     - communicate stakeholders and the feedback process and how that feedback will be used
+
+#### messing up
 - when shit hits the fan
     + it almost always comes down to communications issues
     + did i give this person enough information to succeed?
@@ -168,6 +203,11 @@ Okay, now that we've talked about some ways to appear to be a human being to you
     +   blameless postmortems
     + life or death is just not a thing
     + is it a problem with a person?
+
+#### hard conversations
+
+- critique ideas not people
+- say hard things honestly
 
 ## bye
 
