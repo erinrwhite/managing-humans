@@ -168,13 +168,13 @@ Rinse and repeat regularly, more frequently than yearly evaluation cycles.
 
 This may be the several years of hiring only part-time employees talking, but I let people know really early on that I know they won't be here forever. The usual spiel is, if you feel the need to leave, let me know. I want us to do what we can to keep you, including trying to match outside offers, but if you just want to move on I will not take it personally. Do good work I'll happily give you a good reference.
 
-#### defining work
+#### defining "work"
 
 One thing that's different about library work is that our coding jobs are not about billable hours. Here are some things I define as "work": going out for coffee with your boss, travel to/from another library branch, talking with coworkers in a hallway about a project, attending another department's presentation, reading articles about libraries or technology, experimenting with a new javascript framework, brainstorming ways to solve a design problem while staring off into space. 
 
 In libraryland, if what we're doing contributes to the mission of the organization we work for, we are working. That space gives us room to breathe and grow.
 
-#### mixing it up
+#### core vs. satellite projects
 
 A lot of us have several projects we're working on at the same time. Not all of us, but many of us. And in libraryland, some of those projects can be boring or tedious. I've tried to balance out potentially boring projects with cool stuff, which helps productivity and morale. On our shared project board we've broken out these projects into "core" and "satellite" projects - thanks to Ben Crowder and Grant Zabriskie at BYU for these terms.
 
@@ -185,24 +185,37 @@ Satellite projects are not mission-critical services, but they're projects that 
 Balancing core and satellite projects can be difficult, but having a little bit of both at the same time can make a world of difference.
 
 #### communication (more of it)
-- ask them how they'd prefer to hear from you
-- tell them how you work: be honest about your motivations, pressures, goals and how you work best
-- are they big-picture or task-oriented?
-- regular one-on-ones
+
+I talked earlier about how the biggest component of managing people is communication. Communication to your team, from your team, among your team, within your organization...it's just really hard to overstate this here. 
+
+Communicating one-on-one is important, too, for setting expectations, getting status updates, talking through issues, and evaluating work as you go. If time and space allow, set regular 1-on-1 meetings with your team members and don't break those meetings unless you absolutely have to. Use these times to catch up on projects or get a sense for how things are going.
+
+Big questions to ask when someone new joins your team, or periodically as you work together:
+
+- "What's the best way for us to communicate?" I live and die by e-mail. Our designer and developer respond faster to GitHub tickets. If something's going down in flames, I walk over and chat face-to-face.
+- "Do you want more guidance or less?" Some people love just being given a problem to solve and the constraints, then running with it. Some people like more structure: tell me more about the typical process for this, break this down into chunks for me.
+
+Also important: letting people know when you need to hear from them. "When I put in an urgent ticket, give me a heads up that you've received it."
+
+Whatever the situation, make sure you give your employee enough information to succeed. Explain your rationale for asking for changes or new features - this in turn gives people the opportunity to provide alternate solutions to problems. Be honest about your motivations, and any other political factors that give context to a project. Is there an important constraint? Mention it. UX your interaction. Does this person need a piece of documentation they may or may not remember? Mention it, link to it if you can, fwd the old e-mail chain.
 
 #### librarylandia
-- politics of libraryland! libraryland is weird
-    - be the poo umbrella
-    - communicate stakeholders and the feedback process and how that feedback will be used
+
+Holy crap, y'all, libraryland is so strange. 
+
+Our technology is both so advanced and so behind. It is a disfigured knot that we are all trying to untangle. To someone coming in from another type of IT-land, our problems are very strange. 
+
+Not to mention that organizationally and culturally, libraries are bastions for strange and wonderful people and ideas. In general, we are overworked and underfunded, and we are profoundly interested in helping people to the detriment of things like design standards and sensical business rules.
 
 #### messing up
-- when shit hits the fan
-    + it almost always comes down to communications issues
-    + did i give this person enough information to succeed?
-    + was this an error?
-    +   blameless postmortems
-    + life or death is just not a thing
-    + is it a problem with a person?
+
+Things aren't always puppies and rainbows. Sometimes stuff breaks, somebody makes a mistake, or something goes wrong. 
+
+At Code4Lib 2013 - the first Fail4Lib session - we discussed Etsy's process of blameless postmortems. The assumption there is that people make the best decisions they can based on the info they have at the time ("curious, mission-driven tinkerers!"). So in some cases...we just make the wrong decision. It isn't some malicious intent on the employee's part, so why punish? Instead, focus on the cause for the decision and figure out what needs to change.
+
+It's not about pointing a finger of blame - it's about figuring out what happened, trying to ameliorate it if need be, and doing better next time.
+
+And no shocker, inevitably, something goes wrong because of a breakdown in communication.
 
 #### hard conversations
 
@@ -212,7 +225,3 @@ Balancing core and satellite projects can be difficult, but having a little bit 
 ## bye
 
 That's all I have to say. Thank you for your time, Code4Lib!
-
-    
-
- 
