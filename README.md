@@ -16,11 +16,11 @@ sometimes technical people end up leading technical teams (gasp!). I’ll talk a
     - [ass+u+me](#assume)
     - [your work, lol](#your-work-lol)
     - [staying current](#staying-current)
-    - [communicate](#communicate)
-    - [the clench, or: loling at your demons](#the-clench-or-loling-at-your-demons)
+    - [communication](#communication)
+    - [mindfulness](#mindfulness)
     - [balance](#balance)
 - [recognize that others are humans](#recognize-that-others-are-humans)
-    - [hiring](#hiring)
+    - [recruiting](#recruiting)
         - [the first day](#the-first-day)
     - [retaining](#retaining)
         - [a person, not a position](#a-person-not-a-position)
@@ -28,7 +28,7 @@ sometimes technical people end up leading technical teams (gasp!). I’ll talk a
         - [core vs. satellite projects](#core-vs-satellite-projects)
         - [messing up](#messing-up)
         - [communication (more of it)](#communication-more-of-it)
-        - [hard conversations](#hard-conversations)
+        - [one-on-ones](#oneonones)
 - [bye](#bye)
 - [references](#references)
 
@@ -98,27 +98,27 @@ Letting go can be hard, especially if you're really close to your old job respon
 
 Though I just said to stay out of the active development workflow, I try to keep somewhat current on our code stack so I can speak intelligently with my team about problems we're trying to solve. I pick small, non-urgent maintenance requests that I can commit and fix. This is also a great way to test documentation. :D :D :D
 
-### communicate
+### communication
 
 I think a manager's biggest job is talking with your team. Communicating context, important political or historical factors that will impact work, audience for projects, timelines, feedback, everything. And, making sure that their voices and needs are heard in the levels above you.
 
 In general, I try to be as transparent as possible. There is such thing as TMI, though, and that is when the info I'm conveying is a negative attitude about other people or processes in the organization. This is rarely helpful and always poisons the well. Being kind a jerk signals to your team that it's okay to be a jerk. Be honest but don't be a jerk. As my boss said to me recently, "We're all smart here. Try to be kind."
 
-Other things I've finally learned to communicate: the rationale for decisions, changes, etc., including my motivations, goals, relationships with stakeholders in the library, and political things that are impacting a project. Most recently: "I got X committee to set their own deadline because we've set the deadlines for them many times in the past few years, and this'll boost our points with them."
-
 Another thing I have gotten better at communicating nowadays: areas where I screwed up *or* am roadblocking. Acknowledge, fix it, move on.
 
-### the clench, or: loling at your demons
+More on communication in a bit.
 
-A thing I've learned about myself as a manager is that I really fear change. I have a hard time with big new project ideas, or changing up the way things have been done for a long time, or the idea of new technologies...the list really goes on. 
+### mindfulness
 
-I like to call any time I feel fear or defensiveness The Clench. Whenever our developer or designer presents a new idea to me, I say, "thank you for bringing this forward (really, thank you)", ask a few questions, and say let's talk about it again next week. My requirements are: does this project solve a problem or serve our mission? Is this viable? Is this sustainable? If those answers are yes, okay, we're doing it. The Clench subsides.
+Becoming a manager makes you face some truths about yourself. A thing I've learned about myself as a manager is that I really fear change. I have a hard time with big new project ideas, or changing up the way things have been done for a long time, or the idea of new technologies...the list really goes on. 
 
-Hear the idea, feel the clench, ask some questions, give it a minute, pursue the idea. Acknowledge, fix, move on.
+In an effort to be mindful about this, I've started to be really aware of whenever I feel fear or defensiveness. In my mind I call it The Clench. I feel it, acknowledge it, give it a minute, rationally evaluate it, and then move on with my life.
 
-And, because I am predictable, my team knows how to approach new ideas with me.
+And, because I am predictable in this way, my team knows how to approach new ideas with me.
 
 ### balance
+
+One thing I talk about a lot lately is balance. We were working on a big project in 2013 and I didn't really take vacation that year. It was terrible. It took a toll on me and strained relationships with my team. I should've taken my damn vacation. 
 
 It's important to recharge and separate yourself, you, human person, from your work, no matter what a curious, mission-driven tinkerer you are. 
 
@@ -134,7 +134,7 @@ Also, unless you are a library director, you don't need to send a dang e-mail at
 
 Okay, now that we've talked about some ways to appear to be a human being to yourself and your employees, let's talk about the humans you manage.
 
-### hiring
+### recruiting
 
 Sybil talked a little bit about hiring in her talk. I won't add a whole lot here.
 
@@ -144,13 +144,14 @@ For many, the appeal of library work is that at the end of the day, maybe, just 
 
  - Emphasize non-pay benefits - free tuition? Gym membership? Great health benefits? Paid time off and a lot of leave around the holidays? Check, check, check.
  - Emphasize that it's only a 40-hour workweek. Sadly, in the U.S., this is a perk.
+ - Advocate for telecommuting opportunities. Some people here work 100% off-site. Even one day a week is a big sell for people and it gives a great chance to focus uninterrupted on a project.
  - Fight for travel funding. Send people to conferences and pay for training.
  - Build 10 or 20%-time projects into the job description for employees to choose their own adventure - learn a new technology or work on a project they think would benefit the organization.
- - Build learning into the job description. Let people learn on the job rather than at home, after hours.
+ - Build learning into the job description. Encourage people to learn on the job rather than at home, after hours.
 
 And in recruiting, I post the job all over - LinkedIn, Craigslist, Twitter, local meetup groups, and also send the job ad out through personal channels. If there was a promising applicant in the applicant pool the last time you hired, let them know. I don't know if this is legal so don't tell HR.
 
-- interviewing: what was the last script you wrote? can you teach yourself? do you speak fondly of your ex-employers?
+When we interview people, we are looking for curious tinkerers who generally speak well of previous employers, clients or teammates; who are interested in learning; who ask us questions.
 
 #### the first day
 
@@ -171,7 +172,7 @@ Relatively soon after someone starts (not the next day, slow your role) you shou
 - What do you want to learn?
 - What do you need to do that?
 
-Rinse and repeat regularly, more frequently than yearly evaluation cycles.
+Rinse and repeat regularly, more frequently than yearly evaluation cycles. This helps you figure out how to support someone's growth and how that can align with future projects.
 
 This may be the several years of hiring only part-time employees talking, but I let people know really early on that I know they won't be here forever. The usual spiel is, if you feel the need to leave, let me know. I want us to do what we can to keep you, including trying to match outside offers, but if you just want to move on I will not take it personally. Do good work I'll happily give you a good reference. 
 
@@ -193,13 +194,15 @@ Balancing core and satellite projects can be difficult, but having a little bit 
 
 #### messing up
 
-Things aren't always puppies and rainbows. Sometimes stuff breaks, somebody makes a mistake, or something goes wrong. 
+Things aren't always puppies and rainbows. Sometimes stuff breaks, somebody makes a mistake, something goes wrong. 
 
 At the first Fail4Lib in 2013 we discussed Etsy's process of blameless postmortems. The assumption there is that people make the best decisions they can based on the info they have at the time.  It isn't some malicious intent or fundamental flaw on the employee's part.
 
 In social psychology there's a term, fundamental attribution error, defined thusly:
 
     "people's tendency to place an undue emphasis on internal characteristics to explain someone else's behavior in a given situation, rather than considering external factors"
+
+This goes back to the idea of tuning our assumptions about our team members and assuming that errors of judgement are due to external, not internal, factors.
 
 It's not about pointing a finger of blame - it's about figuring out what happened, trying to ameliorate it if need be, and doing better next time. Supporting other curious, mission-driven tinkerers.
 
@@ -209,29 +212,26 @@ No shocker, inevitably something goes wrong because of a breakdown in communicat
 
 I talked earlier about how the biggest component of managing people is communication. Communication to your team, from your team, among your team, within your organization...it's just really hard to overstate this here. 
 
-Whatever the situation, make sure to give people enough information to succeed. This is especially important for people coming from outside of libraryland because holy crap, y'all, libraryland is so strange. Our technology is a huge, strange knot that we are all trying to untangle. And, libraries are profoundly interested in helping people, often to the detriment of things like design standards and sensical business rules.
+Whatever the situation, make sure to give people enough information to succeed. This is especially important for people coming from outside of libraryland because holy crap, y'all, libraryland is so strange. Our technology is a huge, weird knot that we are all trying to untangle. And, libraries are profoundly interested in helping people, often to the detriment of things like design standards and sensical business rules. It can be very confusing.
 
- - Explain your rationale for wanting to talk about changes or new features as design problems - this in turn gives people the opportunity to provide alternate solutions. 
+ - Explain rationale for wanting to talk about changes or new features as design problems - this in turn gives people the opportunity to provide alternate solutions. 
  - Be honest about your motivations, and any other political factors that give context to a project. 
- - Is there an important constraint? Mention it. 
+ - Is there an important constraint? Technically, organizationally? Business rules?
  - UX your interaction. Does this person need a piece of documentation they may or may not remember? Mention it, link to it if you can, fwd the old e-mail chain. Don't just expect everyone to remember everything.
+
+#### one-on-ones
 
 Communicating one-on-one is important for setting expectations, getting status updates, talking through issues, and evaluating work as you go. If time and space allow, set regular 1-on-1 meetings with your team members and don't break those meetings unless you absolutely have to. Use these times to catch up on projects, figure out what roadblocks you can clear, or get a sense for how things are going. 
 
 Big questions to ask when someone new joins your team, or periodically as you work together:
 
-- "What's the best way for us to communicate?" I live and die by e-mail. Our designer and developer respond faster to GitHub tickets. If something's going down in flames, I walk over and chat face-to-face. Also important: letting people know when you need to hear from them. "When I put in an urgent ticket, give me a heads up that you've received it."
+- "What's the best way for us to communicate?" and 
+- "What's your best way to communicate in a team setting?"  I live and die by e-mail. Our designer and developer respond faster to GitHub tickets. If something's going down in flames, I walk over and chat face-to-face. Generally they prefer to talk to each other face-to-face. Also important: letting people know when you need to hear from them. "When I put in an urgent ticket, give me a heads up that you've received it."
 - "Do you need more detail or less?" Some people love just being given a problem to solve and the constraints, then running with it. Some people like more structure: tell me more about the typical process for this, break this down into chunks for me.
-- "What's your best way to communicate in a team setting?" 
-
-#### hard conversations
-
-- critique ideas not people
-- say hard things honestly
 
 ## bye
 
-That's all I have to say. Thank you for your time, Code4Lib!
+In conclusion, this is all I have to say. Thank you for your time, Code4Lib!
 
 ## references
 
