@@ -3,32 +3,8 @@ Programmers are not projects: lessons learned from managing humans
 
 [code4lib 2015 talk](http://code4lib.org/conference/2015/white)
 
-Managing projects is one thing, but managing people is another. Whether
-we’re hired as managers or grow “organically” into management roles,
-sometimes technical people end up leading technical teams (gasp!). I’ll
-talk about lessons I’ve learned about hiring, retaining, and working
-long-term and day-to-day with highly tech-competent humans. I’ll also
-talk about navigating the politics of libraryland, juggling different
-types of projects, and working with constrained budgets to make good
-things and keep talented people engaged.
-
-
-## references
-
-- [team culture at angellist](http://www.slideshare.net/abstartups/dia01-02-keynotejoshuaslaytonangellistdoing-the-wrong-things-the-right-way) - hire lazy people, reward them, let them fail, enforce humility
-- [how etsy increased diversity](https://www.youtube.com/watch?v=0D66GVc7ztA)
-- [UX leadership, part 1](http://www.uxmatters.com/mt/archives/2014/12/ux-leadership-part-1-the-nature-of-great-leaders.php)
-- [If you want to be in management, don't expect to be liked](http://dollymegan.com/if-you-want-to-be-in-management-dont-expect-to-be-liked/)
-- [From operator to guide](http://sysadvent.blogspot.co.il/2014/12/day-8-from-operator-to-guide-lessons.html)
-- [How to interview sysadmins](http://sysadvent.blogspot.co.il/2014/12/day-16-how-to-interview-systems.html)
-- [Blameless postmortems and just culture at Etsy](https://codeascraft.com/2012/05/22/blameless-postmortems/)
-- [Why do you want to lead people?](http://fractio.nl/2014/10/03/why-do-you-want-to-lead-people/)
-- [How to make the leap from engineer to manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/)
-- [User experience management](http://proquest.safaribooksonline.com/9780123854964)
-- [Harvard business review: Manage your boss](https://hbr.org/2005/01/managing-your-boss)
-- [MVC: Command management vs service management](https://modelviewculture.com/pieces/engineering-management-and-diversity)
-- [Book: UX Management](http://proquest.safaribooksonline.com/book/web-development/usability/9780123854964)
-- [Book: Leading Snowflakes](http://leadingsnowflakes.com/)
+**Abstract:** Managing projects is one thing, but managing people is another. Whether we’re hired as managers or grow “organically” into management roles,
+sometimes technical people end up leading technical teams (gasp!). I’ll talk about lessons I’ve learned about hiring, retaining, and working long-term and day-to-day with highly tech-competent humans. I’ll also talk about navigating the politics of libraryland, juggling different types of projects, and working with constrained budgets to make good things and keep talented people engaged.
 
 ## introduction
 Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about...managing people. Super-scintillating stuff.
@@ -225,3 +201,20 @@ And no shocker, inevitably, something goes wrong because of a breakdown in commu
 ## bye
 
 That's all I have to say. Thank you for your time, Code4Lib!
+
+## references
+
+- [team culture at angellist](http://www.slideshare.net/abstartups/dia01-02-keynotejoshuaslaytonangellistdoing-the-wrong-things-the-right-way) - hire lazy people, reward them, let them fail, enforce humility
+- [how etsy increased diversity](https://www.youtube.com/watch?v=0D66GVc7ztA)
+- [UX leadership, part 1](http://www.uxmatters.com/mt/archives/2014/12/ux-leadership-part-1-the-nature-of-great-leaders.php)
+- [If you want to be in management, don't expect to be liked](http://dollymegan.com/if-you-want-to-be-in-management-dont-expect-to-be-liked/)
+- [From operator to guide](http://sysadvent.blogspot.co.il/2014/12/day-8-from-operator-to-guide-lessons.html)
+- [How to interview sysadmins](http://sysadvent.blogspot.co.il/2014/12/day-16-how-to-interview-systems.html)
+- [Blameless postmortems and just culture at Etsy](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+- [Why do you want to lead people?](http://fractio.nl/2014/10/03/why-do-you-want-to-lead-people/)
+- [How to make the leap from engineer to manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/)
+- [User experience management](http://proquest.safaribooksonline.com/9780123854964)
+- [Harvard business review: Manage your boss](https://hbr.org/2005/01/managing-your-boss)
+- [MVC: Command management vs service management](https://modelviewculture.com/pieces/engineering-management-and-diversity)
+- [Book: UX Management](http://proquest.safaribooksonline.com/book/web-development/usability/9780123854964)
+- [Book: Leading Snowflakes](http://leadingsnowflakes.com/)
