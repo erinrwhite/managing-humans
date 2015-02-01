@@ -8,11 +8,11 @@ Slide deck:
     - ass+u+me
     - your work, lol
     - staying current
-    - communicate
-    - the clench, or: loling at your demons
+    - communication
+    - mindfulness
     - balance
 - recognize that others are humans
-    - hiring
+    - recruiting
         - the first day
     - retaining
         - a person, not a position
@@ -20,6 +20,6 @@ Slide deck:
         - core vs. satellite projects
         - messing up
         - communication 
-        - hard conversations
+        - one-on-ones
 - bye
 - references
