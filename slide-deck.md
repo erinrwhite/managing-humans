@@ -9,10 +9,17 @@ Slide deck:
     - your work, lol
     - staying current
     - communicate
-    - case study: the clench
+    - the clench, or: loling at your demons
     - balance
 - recognize that others are humans
     - hiring
+        - the first day
     - retaining
+        - a person, not a position
+        - defining "work"
+        - core vs. satellite projects
+        - messing up
+        - communication 
+        - hard conversations
 - bye
 - references

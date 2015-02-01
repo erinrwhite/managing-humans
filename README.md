@@ -21,11 +21,18 @@ sometimes technical people end up leading technical teams (gasp!). I’ll talk a
     - [balance](#balance)
 - [recognize that others are humans](#recognize-that-others-are-humans)
     - [hiring](#hiring)
+        - [the first day](#the-first-day)
     - [retaining](#retaining)
+        - [a person, not a position](#a-person-not-a-position)
+        - [defining "work"](#defining-work)
+        - [core vs. satellite projects](#core-vs-satellite-projects)
+        - [messing up](#messing-up)
+        - [communication (more of it)](#communication-more-of-it)
+        - [hard conversations](#hard-conversations)
 - [bye](#bye)
 - [references](#references)
 
-<!-- end toc -->
+<!-- end toc 4 -->
 
 ## introduction
 Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about...managing people. Or specifically, being a technical person who manages technical people. Or being a human who manages humans.
