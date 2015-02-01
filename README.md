@@ -6,7 +6,26 @@ Programmers are not projects: lessons learned from managing humans
 **Abstract:** Managing projects is one thing, but managing people is another. Whether we’re hired as managers or grow “organically” into management roles,
 sometimes technical people end up leading technical teams (gasp!). I’ll talk about lessons I’ve learned about hiring, retaining, and working long-term and day-to-day with highly tech-competent humans. I’ll also talk about navigating the politics of libraryland, juggling different types of projects, and working with constrained budgets to make good things and keep talented people engaged.
 
-[toc]
+## Contents
+
+- [introduction](#introduction)
+- ["soft" skills are hard](#soft-skills-are-hard)
+    - [my story](#my-story)
+    - ["""managing""" in libraryland](#managing-in-libraryland)
+- [being a human](#being-a-human)
+    - [ass+u+me](#assume)
+    - [your work, lol](#your-work-lol)
+    - [staying current](#staying-current)
+    - [communicate](#communicate)
+    - [case study: the clench](#case-study-the-clench)
+    - [balance](#balance)
+- [recognize that others are humans](#recognize-that-others-are-humans)
+    - [hiring](#hiring)
+    - [retaining](#retaining)
+- [bye](#bye)
+- [references](#references)
+
+<!-- end toc -->
 
 ## introduction
 Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about...managing people. Super-scintillating stuff.
