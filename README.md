@@ -116,6 +116,8 @@ In an effort to be mindful about this, I've started to be really aware of whenev
 
 And, because I am predictable in this way, my team knows how to approach new ideas with me.
 
+And I also know now to hire people who are going to scare me, push me a little.
+
 ### balance
 
 One thing I talk about a lot lately is balance. We were working on a big project in 2013 and I didn't really take vacation that year. It was terrible. It took a toll on me and strained relationships with my team. I should've taken my damn vacation. 
