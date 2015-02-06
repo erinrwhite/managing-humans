@@ -16,17 +16,15 @@ sometimes technical people end up leading technical teams (gasp!). I’ll talk a
     - [ass+u+me](#assume)
     - [your work, lol](#your-work-lol)
     - [staying current](#staying-current)
-    - [communication](#communication)
     - [mindfulness](#mindfulness)
     - [balance](#balance)
 - [recognize that others are humans](#recognize-that-others-are-humans)
     - [recruiting and hiring](#recruiting-and-hiring)
-    - [keeping people around](#keeping-people-around)
-        - [the talk](#the-talk)
-        - [defining "work"](#defining-work)
-        - [core vs. satellite projects](#core-vs-satellite-projects)
-        - [messing up](#messing-up)
-        - [communication (more of it)](#communication-more-of-it)
+    - [keeping people around: the talk](#keeping-people-around-the-talk)
+    - [defining "work"](#defining-work)
+    - [core vs. satellite projects](#core-vs-satellite-projects)
+    - [messing up](#messing-up)
+    - [communication, communication, communication](#communication-communication-communication)
 - [in conclusion](#in-conclusion)
 - [bye](#bye)
 - [references](#references)
@@ -34,14 +32,14 @@ sometimes technical people end up leading technical teams (gasp!). I’ll talk a
 <!-- end toc 4 -->
 
 ## introduction
-[slide: introductory slide] Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about being a technical person who manages technical people. Or being a human who manages humans.
+[slide: introductory slide] Hi folks, I'm Erin White and I am the web systems librarian at Virginia Commonwealth University in Richmond, VA. Today I'm going to talk about being a technical person who becomes a manager of technical people. Or being a human who manages humans.
 
-[slide: didn't sybil just talk about this?] You're probably wondering if I'm going to cover the same stuff as Sybil. Well, we schemed ahead of time to avoid dwelling on similar topics. I am talking a little more about working one-on-one with yourself and people you manage. And, I'm talking more about the first few years of management - the takeoff rather than the flight.
+[slide: didn't sybil just talk about this?] You're probably wondering if I'm going to cover the same stuff as Sybil. Well, we schemed ahead of time to avoid dwelling on similar topics. I am talking a little more about working with yourself and one-on-one with the people you manage. And, I'm talking more about the first few years of management - the takeoff rather than the flight.
 
 [slide: agenda] The gist of my talk today is: "soft" skills are hard, be a human and recognize that others are, too.
 
 ## "soft" skills are hard
-[slide: soft skills and hard skills] The Code4Lib schedule this year isn't just about code.  I'm happy about that. Our work is about hard skills *and* soft skills. I'd probably be more comfortable up here talking about an app we developed, but it's also important to talk about this, and I'm glad you thought so, too. I hope that we'll continue to see sessions like this at Code4Libs future, and coming from people who aren't women, too.
+[slide: soft skills and hard skills] The Code4Lib schedule this year isn't just about code. I'm happy about that. Our work is about hard skills *and* soft skills. I'd probably be more comfortable up here talking about an app we developed, but it's also important to talk about this, and I'm glad you thought so, too. I hope that we'll continue to see sessions like this at Code4Libs future, and coming from people who aren't women, too.
 
 So what's the diff?
 
@@ -56,9 +54,9 @@ Both types of skill need practice and intentional growth.
 
 The stakes were low - "the web team" was me and a part-time programmer who had been there a long time, knew what he was doing, and understood the environment.
 
-When he left shortly thereafter, things got real. I had to recruit, hire, train and retain a new person. I had to set the direction. Though part of me was excited I was Getting Management Experience(TM), I was mostly just terrified. 
+When he left, things got real. I had to recruit, hire, train and retain a new person. I had to set the direction for the team and the web. Though part of me was excited I was Getting Management Experience(TM), I was mostly just terrified. 
 
-But over the course of 5 years, a revolving door of hirings for part-time and full-time positions, and some foibles, I can say that I am slightly better at managing people than I was in 2010. Now I manage two full-time employees who have been here for a spell and haven't quit yet, which to me means success. I wouldn't say I'm a fantastic manager, but y'all have already br
+But over the course of 5 years, a revolving door of hirings for part-time and full-time positions, and some foibles, I can say that I am slightly better at managing people than I was in 2010. Now I manage two full-time employees who have been here for a spell and haven't quit yet, which to me means success. I wouldn't say I'm a fantastic manager, but I've learned a lot.
 
 ### """managing""" in libraryland
 
@@ -74,15 +72,15 @@ So, newbie managers + very little admin support for training = lots of "room for
 
 Well, I won't speak for everybody but I do know that I made a lot of assumptions about how good a boss I'd be before I was a boss. I assumed that being a boss was like being a regular person on a team with some added paperwork. I assumed that because I was good at the things that made me a boss, I'd be a good boss. Those things are not true. Management is a skill you have to work on, and if you don't think that, you are probably going to be a terrible manager.
 
-Also, the power dynamic changes when you are in a formal management position and the rules you follow for "how to be a human person" change. You're no longer a friend or an equal or a confidante, nor are you viewed as one. And that's okay. It's just different. The worst way to cope with this is acting like it's not the case *or* doing things just so you can be liked. This is awkward for everyone.
+Also, the power dynamic changes when you are in a formal management position and the rules you follow for "how to be a human person" with others on your team change. You're no longer a friend or an equal or a confidante, nor are you viewed as one. And that's okay. It's just different. The worst way to cope with this is acting like it's not the case *or* doing things just so you can be liked. This is awkward for everyone.
 
 ### ass+u+me
 
-[slide: lumbergh] Our typical view of managers has been framed by depictions of inept, buttoned-up, cubicle-lurking pointy-heads - Dilbert and Office Space come to mind. That view of managers is a depiction of the typical command-based management style: I tell you what to do, you do it without asking questions, you are the cog and I am the genius, grrrrreaaaat. The command-based manager assumes that you naturally are up to no good, that you don't want to work, that you're disengaged. Has anybody ever had a boss who clearly thought like this? Yeah, me too. The wording is blunt, but *this is actually how a lot of managers still think* and how a lot of people are taught to think as managers. Wow!
+[slide: lumbergh] Our typical view of managers has been framed by depictions of inept, cubicle-lurking pointy-heads - Dilbert and Office Space come to mind. That view of managers is a depiction of the typical command-based management style: I tell you what to do, you do it without asking questions, you are the cog and I am the genius, grrrrreaaaat. The command-based manager assumes that you naturally are up to no good, that you don't want to work, that you're disengaged. Has anybody ever had a boss who clearly thought like this? Yeah, me too. The wording is blunt, but *this is actually how a lot of managers still think* and how a lot of people think of managers.
 
-More and more, though, we collectively envision a newer type of manager - the service-based manager who empowers his/her team and becomes the conduit for that team's work. This manager guides strategic direction, sets goals and lets the team decide how to get there with as little obstruction as possible. This is the ideal situation and one that encourages people to do good work that they can stand behind. This is a great model, and doing this is really hard! 
+More and more, though, we collectively envision a newer type of manager - the service-based manager who empowers their team and becomes the conduit for that team's work. This manager guides strategic direction, sets goals and lets the team decide how to get there with as little obstruction as possible. This is the ideal situation and one that encourages people to do good work that they can stand behind. This is a great model, and doing this is really hard! 
 
-[slide: tinkerers] Part of pursuing this service-based model is recognizing your own assumptions about your team and making sure that they align with where we need to be. Rather than assume the worst, my assumption is that the people on my team are *curious, mission-driven tinkerers* who want to be here. All assumptions about the work they do and their motivations flows from there.
+[slide: tinkerers] Part of pursuing this service-based model is recognizing your own assumptions about your team and making sure that they align with where we need to be. Rather than assume the worst, my assumption is that the people on my team are *curious, mission-driven tinkerers* who want to be here. All assumptions about the work they do and their motivations flow from there.
 
 ### your work, lol
 
@@ -97,17 +95,7 @@ Letting go can be hard, especially if you're really close to your old job respon
 
 ### staying current
 
-Though I just said to stay out of the active development workflow, I keep somewhat current on our code stack so I can speak intelligently with my team and ask the right questions about problems we're trying to solve. I pick small, non-urgent maintenance requests that I can commit and fix. This is also a great way to test documentation. :D :D :D
-
-### communication
-
-[slide: communication] A manager's biggest job is talking with your team and the rest of the organization. Communicating context, important political or historical factors that will impact work, audience for projects, timelines, feedback, everything. And, making sure that their voices and needs are heard in the levels above you.
-
-In general, I try to be as transparent as possible. There is such thing as TMI, though, and that is when the info I'm conveying is a negative attitude about other people or processes in the organization. This is rarely helpful and always poisons the well. Being kind a jerk signals to your team that it's okay to be a jerk. Be honest but don't be a jerk. As my boss said to me recently, "We're all smart here. Try to be kind." This includes people inside and outside of the room.
-
-Another thing I have gotten better at communicating nowadays: areas where I screwed up *or* am roadblocking. Acknowledge, fix it, move on.
-
-More on communication in a bit.
+[slide: staying current] Though I just said to stay out of the active development workflow, it's important to keep somewhat current on your code stack so you can speak intelligently with your team and ask the right questions about problems we're trying to solve. To do this, I pick small, non-urgent maintenance requests that I can commit and fix. This is also a great way to test documentation. :D :D :D
 
 ### mindfulness
 
@@ -152,11 +140,9 @@ For many, the appeal of library work is that at the end of the day, maybe, just 
  - Build 10 or 20%-time projects into the job description for employees to choose their own adventure - learn a new technology or work on a project they think would benefit the organization.
  - Build learning into the job description. Encourage people to learn on the job rather than at home, after hours.
 
-### keeping people around
+### keeping people around: the talk
 
 [slide: keeping people around] So, you've brought someone in, onboarded them, and they are doing it! They are really working. You are excited to have a human on your team. How do you keep that person around?
-
-#### the talk
 
 Relatively soon after someone starts you should have the first Talk. 
 
@@ -170,13 +156,13 @@ Rinse and repeat regularly, more frequently than yearly evaluation cycles. This 
 
 This may be the several years of hiring only part-time employees talking, but I let people know really early on that, though I'd like you to stay as long as you want, I know you probably won't be here forever. I want us to do what we can to keep you, including trying to match outside offers or flex the job responsibilities to match your goals, but if you just want to move on I will not take it personally. Do good work I'll happily give you a good reference. 
 
-#### defining "work"
+### defining "work"
 
 [slide: billable hours] One thing that's different about library work is that our coding jobs are not about billable hours (unless all y'all are billing your hours in secret?). Here are some things I define as "work" that are not coding: going out for coffee with your boss, travel to/from another library branch, talking with coworkers in a hallway about a project, attending another department's presentation, reading articles about libraries or technology, experimenting with a new javascript framework, brainstorming ways to solve a design problem while staring off into space. 
 
 In libraryland, if what we're doing contributes to the mission of the organization we work for, we are working. That space gives us room to breathe and grow. For people coming from the private sector, this is either a breath of fresh air or a seriously difficult transition.
 
-#### core vs. satellite projects
+### core vs. satellite projects
 
 [slide: types of projects] A lot of us have several projects we're working on at the same time. And in libraryland, some of those projects can be boring or tedious. I've tried to balance out the not-so-exciting projects with cool stuff. On our shared project board we've broken out these projects into "core" and "satellite" projects - thanks to Ben Crowder and Grant Zabriskie at BYU for these terms.
 
@@ -186,7 +172,7 @@ Satellite projects are not mission-critical services, but they're projects that 
 
 Balancing core and satellite projects can be difficult, but having a little bit of both at the same time can make a world of difference for morale.
 
-#### messing up
+### messing up
 
 [slide: messing up] Things aren't always puppies and rainbows. Sometimes stuff breaks, somebody makes a mistake, something goes wrong. This happens, and it's fine - nobody is going to die. What's more important is how failure is handled and if you learn from it.
 
@@ -200,19 +186,13 @@ At the first Fail4Lib we discussed Etsy's process of blameless postmortems. The 
 
 It's not about pointing a finger of blame - it's about figuring out what happened, trying to ameliorate it if need be, and doing better next time. Supporting other curious, mission-driven tinkerers.
 
-#### communication (more of it)
+And get good at acknowledging areas where you screwed up *or* are roadblocking. Acknowledge, fix it, move on.
+
+### communication, communication, communication
 
 [slide: communication II] No shocker, inevitably something goes wrong because of a breakdown in communication.
 
-I talked earlier about how the biggest component of managing people is communication. Communication to your team, from your team, among your team, within your organization...it's just really hard to overstate this here. 
-
-Whatever the situation, make sure to give people enough information to succeed. This is especially important for people coming from outside of libraryland because holy crap, y'all, libraryland is so strange. Our technology is really weird. And, libraries are profoundly interested in helping people, often to the detriment of things like design standards and sensical business rules. It can be very confusing.
-
- - Explain rationale for wanting to talk about changes or new features as design problems - this in turn gives people the opportunity to provide alternate solutions. 
- - Be honest about your motivations, and any other political factors that give context to a project. 
- - Is there an important constraint? Technically, organizationally? Business rules?
- - UX your interaction. Does this person need a piece of documentation they may or may not remember? Mention it, link to it if you can, fwd the old e-mail chain. Don't just expect everyone to remember everything.
- - And for shit's sake, be open to different solutions to problems, or to the idea that something shouldn't be done.
+A manager's biggest job is talking with your team and the rest of the organization. It's really hard to overstate this. 
 
 Sybil talked about regular 1-on-1 meetings. Those are so necessary.
 
@@ -221,11 +201,19 @@ And, ask about how people like to work.
 - "What's the best way for us to communicate?" and 
 - "What's your best way to communicate in a team setting?"  
  
-I live and die by e-mail. Our designer and developer respond faster to GitHub tickets. If something's going down in flames, I walk over and chat face-to-face. Generally they prefer to talk to each other face-to-face. Also important: letting people know when you need to hear from them. "When I put in an urgent ticket, give me a heads up that you've received it."
+I live and die by e-mail. Our designer and developer respond faster to GitHub tickets. 
+
+Whatever the situation, make sure to give people enough information to succeed. This is especially important for people coming from outside of libraryland because holy crap, y'all, libraryland is so strange. Our technology is really weird. And, libraries are profoundly interested in helping people, often to the detriment of things like design standards and sensical business rules. It can be very confusing.
+
+ - Explain rationale for wanting to talk about changes or new features as design problems - this in turn gives people the opportunity to provide alternate solutions. 
+ - Be honest about your motivations, and any other political factors that give context to a project. In general, I try to be as transparent as possible. There is such thing as TMI, though, and that is when the info I'm conveying is a negative attitude about other people or processes in the organization. This is rarely helpful and always poisons the well. Being kind a jerk signals to your team that it's okay to be a jerk. Be honest but don't be a jerk. As my boss said to me recently, "We're all smart here. Try to be kind." This includes people inside and outside of the room.
+ - Is there an important constraint? Technically, organizationally? Business rules?
+ - UX your interaction. Does this person need a piece of documentation they may or may not remember? Mention it, link to it if you can, fwd the old e-mail chain. Don't just expect everyone to remember everything.
+ - And for shit's sake, be open to different solutions to problems.
 
 ## in conclusion
 
-So to sum up, being a manager means needing to work on yourself, tune your assumptions about yourself and others, and communicate more than you ever thought necessary. Be open to change and to developing yourself. And, remember that you are not your work, so don't take it personal. Just keep trying.
+So to sum up, being a manager means needing to work on yourself, tune your assumptions about yourself and others, and communicate more than you ever thought necessary. Be open to change and to developing yourself. And, remember that you are not your work, and nor are the people on your team, so don't take it personal. Just keep trying.
 
 ## bye
 
