@@ -83,7 +83,7 @@ Also, the power dynamic changes when you are in a formal management position and
 
 More and more, though, we collectively envision a newer type of manager - the service-based manager who empowers his/her team and becomes the conduit for that team's work. This manager guides strategic direction, sets goals and lets the team decide how to get there with as little obstruction as possible. This is the ideal situation and one that encourages people to do good work that they can stand behind. This is a great model, and doing this is really hard! 
 
-[slide: tinkerers] Part of pursuing this service-based model is recognizing our own assumptions about your team and making sure that they align with where we need to be. Rather than assume the worst, my assumption is that the people on my team are *curious, mission-driven tinkerers* who want to be here. All assumptions about the work they do and their motivations flows from there.
+[slide: tinkerers] Part of pursuing this service-based model is recognizing your own assumptions about your team and making sure that they align with where we need to be. Rather than assume the worst, my assumption is that the people on my team are *curious, mission-driven tinkerers* who want to be here. All assumptions about the work they do and their motivations flows from there.
 
 ### your work, lol
 
@@ -112,9 +112,9 @@ More on communication in a bit.
 
 ### mindfulness
 
-[slide: welp] Becoming a manager makes you face some truths about yourself. A thing I've learned about myself as a manager is that I really fear change. I have a hard time with big new project ideas, or changing up the way things have been done for a long time, or the idea of new technologies...the list really goes on. 
+[slide: welp] Becoming a manager makes you face some truths about yourself as a human. A thing I've learned about myself since I became a manager is that I really fear change. I have a hard time with big new project ideas, or changing up the way things have been done for a long time, or the idea of new technologies...the list really goes on. 
 
-In an effort to be mindful about this, I've started to be really aware of whenever I feel fear or defensiveness. In my mind I call it The Clench. I feel it, acknowledge it, give it a minute, rationally evaluate it, and then move on with my life. I always say, thanks for the idea, let's talk about this more next week.
+In an effort to be mindful about this, I've started to be really aware of whenever I feel fear or defensiveness. In my mind I call it The Clench. I feel it, acknowledge it, give it a minute, rationally evaluate it, and then move on with my life. If it's someone on my team presenting a new idea, I'll say, thank you for the idea, give me a minute to think on it and let's talk about this more next week.
 
 And, because I am predictable in this way, my team knows how to approach new ideas with me.
 
@@ -140,20 +140,18 @@ Also, unless you are a library director, you don't need to send a dang e-mail at
 
 ### recruiting and hiring
 
-Sybil talked a little bit about hiring in her talk. I won't add a whole lot here.
+[slide: recruiting and hiring] Sybil talked a little bit about hiring in her talk. I won't add a whole lot here.
 
 Most of the people who have come to work on our web team have come over from the private sector because we do mission-driven work and use a semi-modern code stack (seriously). 
 
 For many, the appeal of library work is that at the end of the day, maybe, just maybe, you're helping someone. But that isn't going to be enough, on its own, to get people in the door. If we can't match private sector salaries - most of us can't, but we should still try - there are other things we can do to make positions appealing:
 
- - Emphasize non-pay benefits - free tuition? Gym membership? Great health benefits? Paid time off and a lot of leave around the holidays? Check, check, check.
+ - Emphasize non-pay benefits - free tuition? Cheap gym membership? Great health benefits for you and your family? Paid time off and a lot of leave around the holidays? Check, check, check.
  - Emphasize that it's only a 40-hour workweek. Sadly, in the U.S., this is a perk.
  - Advocate for telecommuting opportunities. Some Code4Libbers work 100% off-site. Even one day a week is a big sell for people and it gives people time to focus uninterrupted on a project.
  - Fight for travel funding. Send people to conferences and pay for training.
  - Build 10 or 20%-time projects into the job description for employees to choose their own adventure - learn a new technology or work on a project they think would benefit the organization.
  - Build learning into the job description. Encourage people to learn on the job rather than at home, after hours.
-
-When we interview people, we are looking for curious tinkerers who generally speak well of previous employers, clients or teammates; who are interested in learning; who ask us questions.
 
 ### keeping people around
 
@@ -161,7 +159,7 @@ When we interview people, we are looking for curious tinkerers who generally spe
 
 #### the talk
 
-Relatively soon after someone starts (not the next day, slow your role) you should have the first Talk. 
+Relatively soon after someone starts you should have the first Talk. 
 
  - How do you want to grow?
  - What are you excited about?
@@ -171,17 +169,17 @@ Relatively soon after someone starts (not the next day, slow your role) you shou
 
 Rinse and repeat regularly, more frequently than yearly evaluation cycles. This helps you figure out how to support someone's growth and how that can align with future projects.
 
-This may be the several years of hiring only part-time employees talking, but I let people know really early on that, though I'd like them to stay as long as they want, I know they won't be here forever. The usual spiel is, if you feel the need to leave, let me know. I want us to do what we can to keep you, including trying to match outside offers, but if you just want to move on I will not take it personally. Do good work I'll happily give you a good reference. 
+This may be the several years of hiring only part-time employees talking, but I let people know really early on that, though I'd like you to stay as long as you want, I know you probably won't be here forever. I want us to do what we can to keep you, including trying to match outside offers or flex the job responsibilities to match your goals, but if you just want to move on I will not take it personally. Do good work I'll happily give you a good reference. 
 
 #### defining "work"
 
-[slide: billable hours] One thing that's different about library work is that our coding jobs are not about billable hours (unless all y'all are billing your hours in secret?). Here are some things I define as "work": going out for coffee with your boss, travel to/from another library branch, talking with coworkers in a hallway about a project, attending another department's presentation, reading articles about libraries or technology, experimenting with a new javascript framework, brainstorming ways to solve a design problem while staring off into space. 
+[slide: billable hours] One thing that's different about library work is that our coding jobs are not about billable hours (unless all y'all are billing your hours in secret?). Here are some things I define as "work" that are not coding: going out for coffee with your boss, travel to/from another library branch, talking with coworkers in a hallway about a project, attending another department's presentation, reading articles about libraries or technology, experimenting with a new javascript framework, brainstorming ways to solve a design problem while staring off into space. 
 
 In libraryland, if what we're doing contributes to the mission of the organization we work for, we are working. That space gives us room to breathe and grow. For people coming from the private sector, this is either a breath of fresh air or a seriously difficult transition.
 
 #### core vs. satellite projects
 
-[slide: types of projects] A lot of us have several projects we're working on at the same time. And in libraryland, some of those projects can be boring or tedious. I've tried to balance out potentially boring projects with cool stuff. On our shared project board we've broken out these projects into "core" and "satellite" projects - thanks to Ben Crowder and Grant Zabriskie at BYU for these terms.
+[slide: types of projects] A lot of us have several projects we're working on at the same time. And in libraryland, some of those projects can be boring or tedious. I've tried to balance out the not-so-exciting projects with cool stuff. On our shared project board we've broken out these projects into "core" and "satellite" projects - thanks to Ben Crowder and Grant Zabriskie at BYU for these terms.
 
 Core projects are mission-critical projects that affect the core services we provide online: either updating the underlying code base for all our web applications or prepping for an upgrade to our 3rd-party discovery system.
 
@@ -199,9 +197,9 @@ In social psychology there's a term, fundamental attribution error, defined thus
 
 This goes back to the idea of tuning our assumptions about our team members and assuming that errors of judgement are due to external, not internal, factors.
 
-It's not about pointing a finger of blame - it's about figuring out what happened, trying to ameliorate it if need be, and doing better next time. Supporting other curious, mission-driven tinkerers.
+At the first Fail4Lib we discussed Etsy's process of blameless postmortems. The assumption there is that people make the best decisions they can based on the info they have at the time.  It isn't some malicious intent or fundamental flaw on the employee's part.
 
-At the first Fail4Lib in 2013 we discussed Etsy's process of blameless postmortems. The assumption there is that people make the best decisions they can based on the info they have at the time.  It isn't some malicious intent or fundamental flaw on the employee's part.
+It's not about pointing a finger of blame - it's about figuring out what happened, trying to ameliorate it if need be, and doing better next time. Supporting other curious, mission-driven tinkerers.
 
 #### communication (more of it)
 
@@ -226,9 +224,13 @@ And, ask about how people like to work.
  
 I live and die by e-mail. Our designer and developer respond faster to GitHub tickets. If something's going down in flames, I walk over and chat face-to-face. Generally they prefer to talk to each other face-to-face. Also important: letting people know when you need to hear from them. "When I put in an urgent ticket, give me a heads up that you've received it."
 
+## in conclusion
+
+So to sum up, being a manager means needing to work on yourself, tune your assumptions about yourself and others, and communicate more than you ever thought necessary. Be open to change and to developing yourself. And, remember that you are not your work, so don't take it personal. Just keep trying.
+
 ## bye
 
-In conclusion, this is all I have to say. Thank you for your time, Code4Lib!
+Thank you for your time, Code4Lib!
 
 ## references
 
